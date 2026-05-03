@@ -1,0 +1,4 @@
+
+# earthspectra module
+
+::: earthspectra.earthspectra
